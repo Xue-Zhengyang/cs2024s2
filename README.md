@@ -1,5 +1,3 @@
-# cs2024s2
-
 cs2024s2 Pages Assessment
 =====================
 
